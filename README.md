@@ -1,11 +1,10 @@
 # Deno Client Server project template
 
-Project template containing a server written in deno and a client written in typescript using typescript compiler.
+Project template containing a server written in Deno and a client written in typescript using typescript compiler.
 
 The project structure try to be as simple as possible using deno and typescript only as build/running tool (no npm). 
 
-It uses a **workspace.code-workspace** file as suggested by [denoland/vscode_deno](https://github.com/denoland/vscode_deno) extension:
-[main/docs/workspaceFolders.md](https://github.com/denoland/vscode_deno/blob/main/docs/workspaceFolders.md)
+It uses a **workspace.code-workspace** file as suggested by [denoland/vscode_deno](https://github.com/denoland/vscode_deno) extension see the relative documentation [main/docs/workspaceFolders.md](https://github.com/denoland/vscode_deno/blob/main/docs/workspaceFolders.md)
 
 Other repository like [TradeIdeasPhilip/deno-client-server-typescript-template](https://github.com/TradeIdeasPhilip/deno-client-server-typescript-template), evaluates similar configuration.  @TradeIdeasPhilip goes further and configure his workspace to work around some of the issues of the environment.
 
